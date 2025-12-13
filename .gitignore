@@ -1,0 +1,23 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# IDE settings
+.idea/
+.vscode/
+
+# API keys and credentials
+youtube_api_key.txt
+token.json
+credentials.json
+
+# macOS
+.DS_Store
