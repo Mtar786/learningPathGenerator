@@ -1,5 +1,6 @@
 # Learning Path Generator
 
+
 ## Overview
 
 The **Learning Path Generator** is a command‑line tool that produces a four‑week learning plan for any programming language or technical subject. Given a skill keyword (for example, **React** or **Cryptography**), the tool fetches relevant YouTube videos and Medium articles, organises them into weekly modules, and outputs a structured syllabus. By automating the process of gathering quality learning resources, this project helps you focus on the actual learning rather than spending time curating content.
